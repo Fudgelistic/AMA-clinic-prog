@@ -1,0 +1,13 @@
+C:\Users\Jeris\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\Jeris\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\Jeris\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\Jeris\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\Jeris\source\repos\WindowsApp2\WindowsApp2\obj\Debug\OfflineLogIn(Beta)(1 user only).vbprojAssemblyReference.cache
+C:\Users\Jeris\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\Jeris\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form2.resources
+C:\Users\Jeris\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Jeris\source\repos\WindowsApp2\WindowsApp2\obj\Debug\OfflineLogIn(Beta)(1 user only).vbproj.GenerateResource.cache
+C:\Users\Jeris\source\repos\WindowsApp2\WindowsApp2\obj\Debug\OfflineLogIn(Beta)(1 user only).vbproj.CoreCompileInputs.cache
+C:\Users\Jeris\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\Jeris\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\Jeris\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
